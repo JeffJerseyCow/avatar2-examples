@@ -1,0 +1,3 @@
+/home/chris/code/python/avatar2-examples/multi_gdb/CMakeFiles/rebuild_cache.dir
+/home/chris/code/python/avatar2-examples/multi_gdb/CMakeFiles/gdb_example.dir
+/home/chris/code/python/avatar2-examples/multi_gdb/CMakeFiles/edit_cache.dir

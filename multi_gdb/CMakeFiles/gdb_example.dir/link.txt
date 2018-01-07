@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/gdb_example.dir/gdb_example.c.o  -o gdb_example 
